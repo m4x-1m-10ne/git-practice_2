@@ -1,2 +1,3 @@
 Это файл feature.txt
 Изменение в main
+Изменение в conflict-branch
