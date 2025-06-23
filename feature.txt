@@ -1,1 +1,2 @@
 Это файл feature.txt
+Изменение в conflict-branch
